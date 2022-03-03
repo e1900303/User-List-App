@@ -11,15 +11,16 @@
     transform: scale(1.1);
 }
 
-.card__title {
+.card_title {
     font-weight: 800;
     font-size: 1.5rem;
 }
 
-.card__image {
+.card_image {
     display: flex;
     justify-content: flex-end;
 }
-.card__image img {
+
+.card_image img {
     border-radius: 50%;
 }
